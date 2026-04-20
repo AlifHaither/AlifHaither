@@ -1,16 +1,52 @@
-## Hi there 👋
+<h2 align="center">Alif Haither</h2>
 
-<!--
-**AlifHaither/AlifHaither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Flutter & Full-Stack Developer (MERN) <br/>
+CSE Student @ FEC • Open to Internships
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Full+Stack+Learner;Building+Real+World+Apps"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About
+
+- I build mobile apps using Flutter and scalable backend systems with Node.js  
+- Focused on clean architecture, performance, and real-world solutions  
+- Currently improving problem solving and system design fundamentals  
+
+---
+
+### ⚙️ Stack
+
+---
+
+### 📌 Work
+
+**Amazon Clone**  
+→ Full-stack e-commerce app (Auth, Cart, Orders)
+
+**Hall Management System**  
+→ Meal tracking + automated billing
+
+**Quiz App**  
+→ OOP-based dynamic quiz engine
+
+---
+
+### 📊 Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlifHaither&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+### 🔗 Connect
+
+<p align="center">
+<a href="https://github.com/AlifHaither">GitHub</a> • 
+<a href="https://www.linkedin.com/in/alif-haither-6b3182312">LinkedIn</a>
+</p>
