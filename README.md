@@ -20,7 +20,8 @@ CSE Student @ FEC • Open to Internships
 ---
 
 ### ⚙️ Stack
-
+Flutter • Dart • Node.js • Express • MongoDB
+Provider • REST API • Git • JavaScript
 ---
 
 ### 📌 Work
